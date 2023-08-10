@@ -11,6 +11,7 @@ I share with you my learning.
 
 Onde me encontrar:
 <a href="https://www.linkedin.com/in/rodrigojunges1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![Youtube: Rodrigo Junges](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=[http://youtube.com/loianegroner](https://www.youtube.com/@RodrigoJunges1))](https://www.youtube.com/@RodrigoJunges1)
 
 
 ![Rodrigo Junges GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojunges&show_icons=true&theme=transparent)
