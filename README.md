@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Rodrigo Junges. I'm in career transition, I've done some projects for clients and other projects are personal. The first language I learned was assembly, then C language, but today I'm on the Front End. I share with you my learning.
+
+![Rodrigo Junges GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigojunges&show_icons=true&theme=transparent)
+
+
+
+
 <!--
 **RodrigoJunges/RodrigoJunges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
